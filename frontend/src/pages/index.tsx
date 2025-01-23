@@ -78,7 +78,7 @@ export default function Component() {
            
             <div>
               <Image
-                src="/babu-sir.jpeg"
+                src=""
                 alt="Description"
                 className=""
                 width={350}

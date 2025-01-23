@@ -63,7 +63,7 @@ export default function Component() {
             </div>
             <div>
               <Image
-                src="/anu.jpeg"
+                src=""
                 alt="Description"
                 className=""
                 width={350}
@@ -84,7 +84,7 @@ export default function Component() {
                 width={350}
                 height={350}
               />
-              <p className="text-[#3c84fb] text-xl font-semibold mt-4 mb-12">Dr. Babu R (Assistant Professor, CINTEL)</p>
+              <p className="text-[#3c84fb] text-xl font-semibold mt-4 mb-12"> Dr. Akilandeswari P (Associate Professor,  Department of Computing Technologies)</p>
             </div>
           </div>
         </div>

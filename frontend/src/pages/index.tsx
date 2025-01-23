@@ -52,7 +52,7 @@ export default function Component() {
           <div className="flex gap-24 justify-evenly mt-36">
             <div>
               <Image
-                src="/pages/anish.JPG"
+                src="/anish.JPG"
                 alt=""
                 className=""
                 width={500}

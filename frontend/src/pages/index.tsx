@@ -52,14 +52,14 @@ export default function Component() {
           <div className="flex gap-24 justify-evenly mt-36">
             <div>
               <Image
-                src="/med-buddy/frontend/public/anish.jpg"
+                src="/anish.jpg"
                 alt="Description"
                 className=""
                 width={350}
                 height={350}
               />
-              <p className="text-[#3c84fb] text-xl font-semibold mt-4"> Shashank Kumar - RA2011026010181</p>
-              <p className="text-[#3c84fb] text-xl font-semibold">CSE with AIML (CINTEL)</p>
+              <p className="text-[#3c84fb] text-xl font-semibold mt-4"> ANISH MOHAN R R - RA2111003010566</p>
+              <p className="text-[#3c84fb] text-xl font-semibold">CSE</p>
             </div>
             <div>
               <Image

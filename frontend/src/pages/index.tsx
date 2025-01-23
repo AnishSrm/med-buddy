@@ -52,11 +52,11 @@ export default function Component() {
           <div className="flex gap-24 justify-evenly mt-36">
             <div>
               <Image
-                src="/shashank.jpeg"
-                alt="Description"
+                src="/anish.jpg"
+                alt=""
                 className=""
-                width={350}
-                height={350}
+                width={500}
+                height={500}
               />
               <p className="text-[#3c84fb] text-xl font-semibold mt-4"> Shashank Kumar - RA2011026010181</p>
               <p className="text-[#3c84fb] text-xl font-semibold">CSE with AIML (CINTEL)</p>
